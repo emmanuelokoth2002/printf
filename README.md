@@ -7,3 +7,4 @@ Collaborators
 2. Sylvia Ratemo
 
 Day 1 tasks: Setting up Github, Attempting task 0
+Day 2
