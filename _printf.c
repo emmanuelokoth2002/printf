@@ -1,7 +1,10 @@
 #include "main.h"
 
+<<<<<<< HEAD:_printf.c
 void print_buffer(char buffer[], int *buff_ind);
 
+=======
+>>>>>>> 3fa5c08e87fbd10566c9f06903174b68ee980996:_print.c
 /**
  * _printf - Printf function
  * @format: format.
